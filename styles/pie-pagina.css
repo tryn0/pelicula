@@ -1,0 +1,18 @@
+.info{
+	width: 30px;
+	height: 30px;
+}
+a, p{
+	font-family: "Times New Roman", Times, serif;
+	text-decoration: none;
+	color: black;
+	font-size: 17px;
+}
+.info-secundaria{
+	text-align: center;
+	margin-left: 12px;
+}
+.email{
+	text-align: center;
+	margin-left: 12px;
+}

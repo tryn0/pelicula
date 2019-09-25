@@ -1,0 +1,36 @@
+body{
+	background-image: linear-gradient(orange, yellow, orange);
+	color: black;
+}
+.especial{
+	width: 100%;
+	height: auto;
+	border: none;
+}
+#menu-arriba{
+	height: 60px;
+}
+#cuerpo{
+	height: auto;
+}
+#pie-pagina{
+	height: auto;
+}
+img{
+	width: 50%;
+	height: auto;
+	display: block;
+	margin: auto;
+}
+video{
+	display: block;
+	margin: auto;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+.boton{
+	float: right;
+	margin-right: 3%;
+}

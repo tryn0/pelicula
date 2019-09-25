@@ -1,0 +1,25 @@
+#menus{
+	float: left;
+	list-style-type:none;
+	padding: 0;
+	position: relative;
+	left: 50%;
+}
+li{
+	float: left;
+	padding: 0 10px;
+	position: relative;
+	right: 50%;
+}
+li a{
+	text-decoration: none;
+	color: black;
+	display: block;
+	margin: auto;
+}
+a:hover{
+	color: yellow;
+	background-color: red;
+	margin-top: -10px;
+	padding-bottom: 10px;
+}

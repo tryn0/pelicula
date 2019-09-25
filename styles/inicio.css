@@ -1,0 +1,52 @@
+body{
+	background-image: linear-gradient(orange, yellow, orange);
+	color: black;
+}
+#menu-arriba{
+	height: 60px;
+}
+#cuerpo{
+	height: auto;
+}
+#pie-pagina{
+	height: auto;
+}
+iframe{
+	width: 100%;
+	height: auto;
+	border: none;
+}
+.parrafo{
+	width: 35%;
+	font-size: 18px;
+	display: block;
+	margin: auto;
+	text-align: center;
+}
+.logo-raf1{
+	display: block;
+	margin: auto;
+}
+.logo-raf2{
+	display: block;
+	margin: auto;
+	width: 250px;
+	height: 200px;
+}
+.logo-raf3{
+	display: block;
+	margin: auto;
+	width: 250px;
+	height: 130px;
+}
+.titulo{
+	font-size: 22px;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+.boton{
+	float: right;
+	margin-right: 3%;
+}

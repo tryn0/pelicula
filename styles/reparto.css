@@ -1,0 +1,42 @@
+body{
+	background-image: linear-gradient(orange, yellow, orange);
+	color: black;
+}
+iframe{
+	width: 100%;
+	height: auto;
+	border: none;
+}
+#menu-arriba{
+	height: 60px;
+}
+#cuerpo{
+	height: auto;
+}
+#pie-pagina{
+	height: auto;
+}
+th, td{
+	text-align: center;
+}
+td{
+	width: 180px;
+}
+.titulo1{
+	margin-left: 30px;
+}
+.tabla2{
+	float: right;
+	margin-top: -244px;
+}
+.tabla3{
+	margin: auto;
+}
+.titulo2{
+	float: right;
+	margin-top: -291px;
+	margin-right: 30px;
+}
+.titulo3{
+	text-align: center;
+}

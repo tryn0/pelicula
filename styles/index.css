@@ -1,0 +1,20 @@
+body{
+	background-color: #00004d;
+}
+#titulo{
+	text-align: center;
+	color: white;
+}
+#imagen-cabecera{
+	width: 675px;
+	display: block;
+	margin: auto;
+}
+#boton{
+	text-decoration: none;
+	color: black;
+}
+#botoncito{
+	display: block;
+	margin: auto;
+}
